@@ -4,3 +4,6 @@
 [submodule "newspaper_distribution"]
 	path = newspaper_distribution
 	url = https://github.com/Ganesh2598/newspaper_distribution
+[submodule "Todo-app-with-ReactJS"]
+	path = Todo-app-with-ReactJS
+	url = https://github.com/Ganesh2598/Todo-app-with-ReactJS
